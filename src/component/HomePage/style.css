@@ -1,0 +1,24 @@
+.homepage{
+    margin-top: 5%;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    margin-top: 8%;
+}
+.foodie{
+    font-size: 80px;
+    color: rgb(201, 56, 56);
+}
+.sandwich{
+    margin-bottom: 10%;
+}
+.fast-button{
+    margin-left: 10%;
+}
+p{
+    font-family: 'Fredoka', sans-serif;
+}
+#buy{
+    border-radius: 20px;
+    margin-right: 10%;
+}
